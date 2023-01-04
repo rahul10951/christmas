@@ -1,0 +1,37 @@
+.bgimg {
+	background-image: url('https://res.cloudinary.com/dn3cwuv7x/image/upload/v1672738126/merry-christmas-decorative-festival-wishes-greeting-design_1017-34907_cyfvll.webp');
+	background-size: cover;
+	height: 30vh;
+}
+.heading {
+	color: ghostwhite;
+	font-family: 'Roboto';
+	font-size: 50px;
+	font-weight: bolder;
+	padding-top: 100px;
+}
+.shopping {
+	background-color: lightblue;
+	height: 200vh;
+}
+.hatimg {
+	height: 100px;
+	width: 100px;
+}
+.box {
+	background-color: white;
+	width: 150px;
+	border-radius: 15px;
+	padding:5px;
+	height: 150px;
+	text-align: center;
+	margin: 20px;
+}
+.chrisheading {
+	font-size: 15px;
+	font-family:'Roboto' ;
+	font-weight: normal;
+}
+.price {
+	font-weight: bolder;
+}
